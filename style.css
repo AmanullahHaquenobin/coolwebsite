@@ -48,7 +48,7 @@ body{
 .class-sec ul {
 	list-style: none;
 	padding: 2rem;
-	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+	box-shadow: 5px 5px 15px #D1D9E6, -5px -5px 15px #ffffff;
 	background: white;
 	border-radius: 10px;
 }
